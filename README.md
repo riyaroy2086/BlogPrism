@@ -5,6 +5,8 @@
 
 
 ###### I have built the BlogPrism in order to learn State Management in React, Tailwind CSS and the properties of GraphQL . With GraphQL , it's easier to fetch data and use it accordingly . The GraphCMS allows a very beginner-friendly process to consider different variables (schemas, models and fields) in any website . I have used moment library for data type and sass for styling purpose. 
+
+###### TechStack Used : React.js , Next.js , Tailwind CSS , GraphQL , Sass , vercel .
 ###### Deployed using vercel :-
 
 ###### Web App link : https://blog-prism.vercel.app/
